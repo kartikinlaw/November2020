@@ -3,7 +3,7 @@ And You are Now
 You are New 
 And You are Wow
 
-<img src ="img/chintu.jpg.jpg" width="30%">
+<img src ="./img/chintu.jpg" width="30%">
 
 ###### "It's not magic , Its logic , Its code , It's Computer Science!" ~ CAPTAIN
 
