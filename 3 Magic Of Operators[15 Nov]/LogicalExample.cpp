@@ -4,6 +4,6 @@ using namespace std;
 int main() 
 { 
 	int a = 10, b = 4; 
-	bool res = ((a == b) && cout << "GeeksQuiz"); 
+	bool res = (cout<<"GeeksQuiz"<<endl && (a == b)); 
 	return 0; 
 } 
