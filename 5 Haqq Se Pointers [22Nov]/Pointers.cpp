@@ -16,6 +16,7 @@ int main() {
 
      //cout<<"Character"<<&ch<<endl; //'A'
     //Explicit Typecasing from char* to void*
+    cout<<&ch<<endl;
     cout<<(void *)&ch <<endl;
 
     //Pointers
