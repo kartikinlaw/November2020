@@ -31,6 +31,7 @@ int main() {
     C.name[2] = 'W';
     C.name[3] = '\0';
 
+
     // C.name[4] = 'K';
     cout<<C.name<<endl;
     cout<<C1.name<<endl;
